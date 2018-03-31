@@ -182,7 +182,7 @@ exports.playCmd = rl => {
 
 exports.creditsCmd = rl => {
 	log('Autor de la práctica.');
-    log('Víctor Manuel Delgado Parra', 'green');
+    log('VICTOR', 'green');
     rl.prompt();
 };
 
